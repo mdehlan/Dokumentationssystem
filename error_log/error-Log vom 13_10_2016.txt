@@ -1,0 +1,1 @@
+Thu Oct 13 2016 14:59:53 GMT+0200 (Mitteleuropäische Sommerzeit),{"aufrufendeFunktion":"createDatabaseConnection","err":{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"sqlState":"28000","fatal":true}}
